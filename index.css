@@ -1,0 +1,43 @@
+body {
+    min-width: 450px;
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ /*
+ Style our app according to the provided design!
+ green color -> #5f9341
+ */
+ 
+ 
+ input {
+    border-width: 2px;
+    border-style: solid;
+    border-color: #5f9341;
+    width: 370px;
+    height: 35px;
+ }
+ button {
+    color: white;
+    font-weight: bold;
+    background-color: #5f9341;
+    margin-top: 10px;
+    width: 120px;
+    height: 40px;
+    border: 1px;
+ }
+ #delete-btn {
+    background-color: white;
+    color: #5f9341;
+    border-color: #5f9341;
+    border-style: solid;
+ }
+ ul {
+    list-style: none;
+    padding: 0px;
+ }
+ 
+ a {
+    color: #5f9341;
+ }
+ 
